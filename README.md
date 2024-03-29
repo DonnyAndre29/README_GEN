@@ -43,6 +43,7 @@ THEN I am taken to the corresponding section of the README
 
 ## Visuals
 
+![Walkthrough Video](/IMG/Untitled_%20Mar%2028,%202024%205_14%20PM.gif)
 
 
 ## Installation
