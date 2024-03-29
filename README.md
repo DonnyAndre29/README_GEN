@@ -43,7 +43,6 @@ THEN I am taken to the corresponding section of the README
 
 ## Visuals
 
-[![Watch the video](https://app.screencastify.com/v3/watch/qZSUweRFkX7b7qyM1PpE)](https://app.screencastify.com/v3/watch/qZSUweRFkX7b7qyM1PpE)
 
 
 ## Installation
